@@ -5,7 +5,8 @@ This project uses baseball statistics to identify undervalued players, inspired 
 ## Contents
 - [Moneyball_Project.R](Moneyball_Project.R) - R script for analysis and visualization  
 - [Batting.csv](Batting.csv) - player performance dataset  
-- [Salaries.csv](Salaries.csv) - player salary dataset  
+- [Salaries.csv](Salaries.csv) - player salary dataset
+- [Salary_vs._OBP_with_AB.png](Salary_vs._OBP_with_AB.png) - visualization to choose players  
 
 ## How to Run
 1. Clone the repository  
